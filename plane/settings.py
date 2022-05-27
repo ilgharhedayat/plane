@@ -185,15 +185,6 @@ AZ_IRANIAN_BANK_GATEWAYS = {
 
 
 
-
-
-#
-#
-#
-#
-#
-#
-#
 # import os
 # from pathlib import Path
 #
